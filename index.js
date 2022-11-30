@@ -17,7 +17,7 @@ Aşağıdakileri yapın:
    1. surucuYasi diye bir değişken yaratın ve bir sayı atayın.
    2. Eğer yaş 18'den büyük ise Console'da True, değilse False değeri yazdırın.
 
-   İPUCU: fonksiyon oluşturmaya gerek yok
+   İPUCU: fonksiyon oluşturmaya gerek yokabc
 */
 let surucuYasi = 25;
 if (surucuYasi > 18) {
